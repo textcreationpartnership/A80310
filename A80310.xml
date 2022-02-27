@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference held in the Tower of London, between two Aldermen of the city, Praise-God Lean-Bone, and the Lord Lambert, upon their occasion of visiting his lordship. Munday, March the 13th, 1660. Concerning the King of Scots and the present Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80310</idno>
+            <idno type="STC">Wing C5732</idno>
+            <idno type="STC">Thomason E1017_9</idno>
+            <idno type="STC">ESTC R207966</idno>
+            <idno type="EEBO-CITATION">99866979</idno>
+            <idno type="PROQUEST">99866979</idno>
+            <idno type="VID">119269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119269)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference held in the Tower of London, between two Aldermen of the city, Praise-God Lean-Bone, and the Lord Lambert, upon their occasion of visiting his lordship. Munday, March the 13th, 1660. Concerning the King of Scots and the present Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "March. 13. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambert, John, 1619-1683 --  Early works to 1800.</term>
+               <term>Political satire, English --  17th Century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119269:1" rendition="simple:additions"/>
+            <p>A CONFERENCE Held in the Tower of London, Between two Aldermen of the City, PRAISE-GOD LEAN-BONE, <hi>And the</hi> LORD LAMBERT, Upon their occaſion of viſiting his Lordſhip. <hi>M<g ref="char:V">Ʋ</g>NDAY, MARCH</hi> the 13<hi rend="sup">th</hi>, 1660. Concerning the King of Scots And the preſent PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:119269:2"/>
+            <pb n="3" facs="tcp:119269:2"/>
+            <head>A CONFERENCE Held in the Tower of <hi>London,</hi> be<g ref="char:EOLhyphen"/>tween two ALDERMEN of the City, Praiſe-God Lean-Bone, and the Lord Lambert.</head>
+            <opener>
+               <date>Munday, March 13, 1660.</date>
+            </opener>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Y Lord, We are come to viſit your Lordſhip, and alſo to take a view of your Lodgings, for if the Tide turn not, we are like to come and inhabite with Col. <hi>Morley;</hi> for we acted ſo high for your Lordſhips and our own Intereſt, that we are confident we may be bold to believe that we are mortally hated ſo far as we are known.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:119269:3"/>
+               <speaker>Lambert.</speaker>
+               <p>Your viſitation is acceptable and ſeaſon<g ref="char:EOLhyphen"/>able in this juncture of time: but they were far bet<g ref="char:EOLhyphen"/>ter dayes with us when we met in counſel at <hi>Walling<g ref="char:EOLhyphen"/>ford</hi> houſe. O that wicked Monk, and that unhap<g ref="char:EOLhyphen"/>py <hi>Northern</hi> Expedition, laid all our honours in the duſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>Truly, my Lord, our good City, and her young fry of Apprentices were very inſtrumental in our ru<g ref="char:EOLhyphen"/>ines: but there may come a time wherein we may make them amends for their courteſie.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>Truely Gentlemen, I cannot think well of this kind of conſinement, for here are no plea<g ref="char:EOLhyphen"/>ſures wherein a man can delight himſelf; and though I love ſouldiers and men in arms as well as the ſtout<g ref="char:EOLhyphen"/>eſt Prince or <hi>Hero</hi> in the world, yet my delight was to command them, and not to be commanded by them.</p>
+            </sp>
+            <sp>
+               <speaker>Lean-Bone.</speaker>
+               <p>It was my ſad fortune, only for pre<g ref="char:EOLhyphen"/>ſenting the Rump with one impudent Petition, to get the ill will both of <hi>Monk</hi> and his Souldiers, the Parliament now in being, the City, and the whole Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>'Tis true, Mr. <hi>Lean-Bone;</hi> but had I attained to the Mayrolty for this year, as the plot was laid, we had altered the Scene, and though perhaps their Gates might have eſcaped the miſchief, yet their Charter and their Purſes ſhould have made us full ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>You ſay very true, brother <hi>I.</hi> And I am
+<pb n="5" facs="tcp:119269:3"/> ſure it had been much better for the Vine that bears my Grapes, had the City been a City of Redcoats, and not a City of ſuch Croſs-grain'd and ſtiff-necked Varlets.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>I am now cooped up in a Priſon (a place of no Intelligence) how do the people relliſh my confinement?</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>With very much ſeeming joy and ſatisfacti<g ref="char:EOLhyphen"/>on; and well approve the violent and high Actions of this Parliament, and delight in our Commit<g ref="char:EOLhyphen"/>ments. Nay, they have again advanced the Old de<g ref="char:EOLhyphen"/>cayed Covenant, than which the people believe there is nothing ſpeaks more plainly for the King.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>It is a long time ſince I ſwore it, and having taken divers Oaths to the contrary ſince, have almoſt forgot the contents thereof: But I think there is a Clauſe that highly mentions the ſafety of the Kings Perſon, and the Advancement of his Ho<g ref="char:EOLhyphen"/>nour.</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>There is ſo, my Lord; but if his honour be advanced, ours muſt needs be laid in the duſt, as your Lordſhip ſaid even now.</p>
+            </sp>
+            <sp>
+               <speaker>Lean-bone.</speaker>
+               <p>I never taſted what honour was, but whilſt I ſate a little in a ſhort Parliament, and promoted the Act for Marriage, and other wiſe Acts not now regarded: For my Controllers place
+<pb n="6" facs="tcp:119269:4"/> I think that would have had more of Profit then Ho<g ref="char:EOLhyphen"/>nour in it, if I could have kept it.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>If things goe on at this rate, we muſt neither look to hold or injoy either places of Truſt, Honour, or Profit.</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>It is a ſad thing to live under the Government of a Parliament that ſeek to do juſt things, and ſuch as may beſt pleaſe and beſt profit the People. If they bring in the King, hee'l bring us to a fatal period; But Heavens forbid it!</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>I finde then an impoſſibility for me to ſcape their fury; for if the Power be given into His hand, it is not for me to expect mercy: The People being inſenced againſt me, they muſt be ſatisfied with a Sacrifice or two to their fancied Juſtice, or they will never ſit down in obedience to the Goverment.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>It is ſo long ſince the King hath had any oc<g ref="char:EOLhyphen"/>caſion to gratifie his People, that he will not imagine one or two ſufficient to abate their fury. I wiſh eve<g ref="char:EOLhyphen"/>ry County in <hi>England</hi> be not bound to find one State-Martyr, beſides what they will pleaſe to Aſſeſſe upon the City of <hi>London,</hi> who as they alwayes found more money, ſo in this caſe, I am afraid, they muſt finde more men.</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>Then truly Brother <hi>T.</hi> I am in doubt you and I, ſhall hardly be permitted to caſt Dice for our lives, we being both ſo notoriouſly known, and ſo generally hated.</p>
+            </sp>
+            <sp>
+               <speaker>Lean-Bone.</speaker>
+               <p>I am too lean for a Sacrifice, and when the King comes to ſee me, he will ſay I am not worth the Hanging, I have a good mind to face about, and try if I can get a place of imployment under Monar<g ref="char:EOLhyphen"/>chy,
+<pb n="7" facs="tcp:119269:4"/> to try if it be all one with that I had in your Lordſhips reign.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>But my Lord, What defence does your Lordſhip intend to make to your impeachment?</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>Ile plead my Commiſſion, and my then preſent Power.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>True, my Lord a good defence, would they have but the Grace to acknowledge us a ſuffici<g ref="char:EOLhyphen"/>ent Power to grant a Commiſſion for theſe things, which is the thing I onely fear if I be queſtioned my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>Why am I thus hated? though I miſ<g ref="char:EOLhyphen"/>carried in this buſineſs, yet the People know I have done good ſervice in my time,</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>You ſee, my Lord, they have no reſpect of perſons or ſervices, for there is Sir <hi>A. H.</hi> (a man that oppoſed your Power and Deſigns with all his might) is now brought into the ſame predicament.</p>
+            </sp>
+            <sp>
+               <speaker>Titc.</speaker>
+               <p>I have ſeen and helpt forward many a <hi>Turn</hi> in this Nation, but a worſe then this (<hi>for us</hi>) I think our times can hardly parallel: For in all the others, I have kept my Spoke in the Wheel, but in this it is caſt clear out.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>We muſt all expect to have plentifull portions of affliction; for in ſcripture we read, that the Lord will <hi>overturn, overturn, overturn;</hi> but we have doubled theſe overturnings in the Government of theſe Nations.</p>
+            </sp>
+            <sp>
+               <speaker>Lean-Bone,</speaker>
+               <p>That overturning that I had a hand in, is hardly worth the taking notice of; and I hope all the World will think me ſo too.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>I, Comptroller, had I no more to anſwer
+<pb n="8" facs="tcp:119269:5"/> for then you have, it would hardly be a minutes contrivance to gain my releaſe, but I acted high, too high I am afraid!</p>
+            </sp>
+            <sp>
+               <speaker>Ir.</speaker>
+               <p>Were any of our party either in Power or Fa<g ref="char:EOLhyphen"/>vour, then there might be a poſſibility of doing good for your Lordſtip; but we are ſo generally laid aſide and hated, that we dare not appear ſo much as by Petition.</p>
+            </sp>
+            <sp>
+               <speaker>Lean-Bone.</speaker>
+               <p>Petition! Ile meddle no more with Petitions, were I to be Hanged; I have enough of that already.</p>
+            </sp>
+            <sp>
+               <speaker>Lambert.</speaker>
+               <p>There is nothing to be done, but a reli<g ref="char:EOLhyphen"/>ance upon their mercy: If they take me off, you muſt impute it to the neceſſity they are put upon to pleaſe the People. There are noble Preſidents gone before me.</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>Heavens releaſe your Lordſhip, and ſend you better Fortune.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
